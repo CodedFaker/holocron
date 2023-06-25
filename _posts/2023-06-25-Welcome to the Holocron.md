@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 date: 2023-06-25
+image: /assets/Contrast.png
 ---
 
 Hey there! I'm Alvin, a passionate Information Technology (IT) professional who's dedicated to helping others succeed in the world of ones and zeros. I am a Network Administrator with nearly a decade of IT experience. With that experience, I have felt the need to create "Holocron" as a means to teach others things I wish someone had taught me when I started my journey. As the current market of anything IT is difficult to enter into (or progress toward), I hope that all of my efforts will help to eliminate many barriers which many people face today. One thing to know about me is that I love helping people, because I remember all of the times in which I unnecessarily struggled attempting to learn something.
