@@ -1,6 +1,6 @@
 ---
-title: "About me"
+title: "About Me"
 date: 2023-06-25
-body: "This is a test."
 ---
 
+This is a test.
