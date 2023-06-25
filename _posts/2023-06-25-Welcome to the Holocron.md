@@ -9,4 +9,4 @@ If you are not a Star Wars fan, I'm sure you are potentially curious as to how I
 
 If you have made it to this point, I must have piqued your interest in some way. With that said, I am honored that a single person would take time from their day to even take a brief glance at this sort of epitaph of mine. If you find what I do helpful, please share it with others to help give more of a fighting chance. The journey is more important than the end or the start, so join me in creating something meaninful. May the force be with you!
 
-TLDR: I'm a guy trying to give back in the best way he can think of.
+TLDR: I'm a guy trying to give back in the best way I can think of.
