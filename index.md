@@ -1,4 +1,4 @@
 ---
-title: Welcome to my Holocron
+title: Welcome to my Holocron!
 ---
 
